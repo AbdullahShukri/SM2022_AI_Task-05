@@ -45,6 +45,6 @@ Click the `2D Nav Goal` button in the RViz menu. Click on the map to set the des
 </br>
 </br>
 
-
+![task 05~1](https://user-images.githubusercontent.com/101488769/185805701-93c341f7-d1c7-48c6-b3f4-a1d942d1a21a.gif)
 </br>
 </br>
